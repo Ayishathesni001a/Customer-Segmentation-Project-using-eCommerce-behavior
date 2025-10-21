@@ -99,4 +99,4 @@ This project analyzes an e-commerce dataset to **segment customers** based on th
 
 ---
 
-## 📁 Project Structure
+
